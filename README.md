@@ -19,7 +19,7 @@ O nome utilizado como parâmetro deve ser reconhecido pelo arquivo de configura�
 Ex: Se você possui uma máquina chamada de Skywalker e nela, um serviço chamado StarWars. Você também preparou um script que contém um conjunto de operações, tais como: baixar o projeto de um repositório do git, executar comando de instalação de pacotes, e iniciar o serviço, etc. ele deve ser inserido na pasta **scripts**.
 No arquivo **settings.json**, você irá configurar da seguinte forma:
 
-```js
+```json
 Machines": { 
             "Names": ["Skywalker"], 
             "Processes": ["StarWars""],
