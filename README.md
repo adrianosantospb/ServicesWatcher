@@ -34,7 +34,7 @@ main.py -m Skywalker
 
 ## Tecnologias
 
-python 3.7
-dynaconf - https://dynaconf.readthedocs.io
-getopt - https://www.gnu.org/software/libc/manual/html_node/Getopt.html
-psutil - https://pypi.org/project/psutil/
+* python 3.7
+* dynaconf - https://dynaconf.readthedocs.io
+* getopt - https://www.gnu.org/software/libc/manual/html_node/Getopt.html
+* psutil - https://pypi.org/project/psutil/
