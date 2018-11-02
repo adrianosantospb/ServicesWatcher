@@ -22,8 +22,8 @@ No arquivo **settings.json**, você irá configurar da seguinte forma:
 ```json
 Machines": { 
             "Names": ["Skywalker"], 
-            "Processes": ["StarWars""],
-            "Files" : ["skywalker.py""]
+            "Processes": ["StarWars"],
+            "Files" : ["skywalker.py"]
         },
 ```
 Para chamar o serviço ServicesWatch, faça:
