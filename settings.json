@@ -1,0 +1,13 @@
+{
+    "default": {
+        "Machines": { 
+            "Names": ["Server", "Cubietruck"], 
+            "Processes": ["Vaca", "Python"],
+            "Files" : ["server.py", "Cubietruck.py"]
+        }, 
+        "Config": {
+            "Parameter": "-m",
+            "FilePath": "/scripts/"
+        }
+    }     
+}
